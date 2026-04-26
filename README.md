@@ -231,7 +231,3 @@ More detailed documentation is available in the `docs/` folder:
 - [`docs/SERIAL_PROTOCOL.md`](docs/SERIAL_PROTOCOL.md)
 - [`docs/OPERATING_GUIDE.md`](docs/OPERATING_GUIDE.md)
 - [`docs/TROUBLESHOOTING.md`](docs/TROUBLESHOOTING.md)
-
-## License
-
-This repository is provided with an **All Rights Reserved** license placeholder. Replace `LICENSE` with the license selected by the project owner before public distribution if open-source use, modification, or redistribution is intended.
