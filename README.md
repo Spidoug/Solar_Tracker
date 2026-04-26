@@ -1,12 +1,12 @@
 # Solar Tracker
 
-![Solar tracker](https://github.com/user-attachments/assets/14e7e882-e4fa-4f13-8470-cbe85fea057b)
+<img width="480" height="854" alt="videoframe_57683" src="https://github.com/user-attachments/assets/98d9f886-c970-4183-80f4-ba973f719075" />
 
 **Solar Tracker** is an Arduino-based photovoltaic panel positioning system. It uses two LDR sensors, an irradiance input, a servo motor, a compass module, an RTC module, EEPROM persistence, and a browser-based Web Serial control interface to keep a solar panel aligned with the most favorable light direction during the configured operating window.
 
 The project combines embedded control and a lightweight web dashboard. The Arduino firmware performs the real-time tracking logic, while the HTML interface allows the operator to connect through USB serial, set angles, sync the RTC, configure sunrise and sunset times, adjust magnetic declination, toggle operation modes, record calibration data, and export CSV files.
 
-![Solar Tracker App](https://github.com/user-attachments/assets/cdbe6c58-a20d-438f-949f-b8ca73dcf23d)
+<img width="852" height="874" alt="image" src="https://github.com/user-attachments/assets/9b389acf-1408-4fe7-a043-d97850ea34e6" />
 
 ## Project objective
 
